@@ -1,0 +1,10 @@
+server:
+  error:
+    include-message: always
+
+bowling:
+  maxPlayers: 3
+  maxPoints: 10
+  maxFrames: 10
+  strikePoint: 10
+  sparePoint: 10
