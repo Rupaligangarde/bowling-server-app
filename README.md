@@ -32,4 +32,4 @@ To run the application locally, please follow following steps:
 
 
 Please find automated client side application here.
-*  [Blowing client side app]()
+*  [Blowing client side app](https://github.com/Rupaligangarde/bowling-client-app)
